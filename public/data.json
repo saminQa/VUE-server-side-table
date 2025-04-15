@@ -1,0 +1,15 @@
+[[
+    { "id": 1, "year": 2025, "int_number": 1, "status": 1, "date": "2025-01-01", "addressee": "Firma A", "content": "Obsah 1", "type": "Druh 1", "employee_id": 1 },
+    { "id": 2, "year": 2025, "int_number": 2, "status": 2, "date": "2025-01-02", "addressee": "Firma B", "content": "Mail content", "type": "Druh 2", "employee_id": 2 },
+    { "id": 3, "year": 2025, "int_number": 3, "status": 1, "date": "2025-01-03", "addressee": "Firma C", "content": "Obsah 3", "type": "Druh 3", "employee_id": 3 },
+    { "id": 4, "year": 2025, "int_number": 4, "status": 1, "date": "2025-01-03", "addressee": "Allianz", "content": "Content 3", "type": "Type 3", "employee_id": 3 },
+    { "id": 5, "year": 2025, "int_number": 5, "status": 2, "date": "2025-01-04", "addressee": "Firma C", "content": "Obsah 3", "type": "Druh 3", "employee_id": 2 },
+    { "id": 6, "year": 2025, "int_number": 6, "status": 1, "date": "2025-01-05", "addressee": "Union", "content": "Obsah 3", "type": "Druh 3", "employee_id": 3 },
+    { "id": 7, "year": 2025, "int_number": 7, "status": 2, "date": "2025-01-05", "addressee": "Allianz", "content": "Contract", "type": "Druh 3", "employee_id": 1 },
+    { "id": 8, "year": 2025, "int_number": 8, "status": 1, "date": "2025-01-06", "addressee": "Kooperativa", "content": "Obsah 3", "type": "Druh 3", "employee_id": 2 },
+    { "id": 9, "year": 2025, "int_number": 9, "status": 2, "date": "2025-01-07", "addressee": "Firma C", "content": "Obsah 3", "type": "Druh 3", "employee_id": 3 },
+    { "id": 98, "year": 2025, "int_number": 98, "status": 2, "date": "2025-04-08", "addressee": "Blabla", "content": "Obsah 98", "type": "Druh 8", "employee_id": 2 },
+    { "id": 99, "year": 2025, "int_number": 99, "status": 1, "date": "2025-04-09", "addressee": "Union", "content": "Obsah 99", "type": "Druh 9", "employee_id": 3 },
+    { "id": 100, "year": 2025, "int_number": 100, "status": 2, "date": "2025-04-10", "addressee": "Blabla", "content": "Files including...", "type": "Blabla", "employee_id": 1 }
+  ],100, [{"id": 1, "title": "ada.babalova"}]]
+
